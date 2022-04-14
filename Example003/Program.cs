@@ -18,10 +18,7 @@ namespace Example003
             {
                 Console.WriteLine("нет");
             }
-                
-            //}
-            //return;
-            
+                 
         }
     }
 }
