@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+// See https://aka.ms/new-console-template for more information
 
 //int week=0;
 
@@ -13,3 +13,4 @@ else if (day>=6 & day<=7)
     {
         Console.WriteLine("day off");
     }
+}
